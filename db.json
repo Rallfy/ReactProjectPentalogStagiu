@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "userName": "1",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "userName": "raul",
+      "password": "test",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "bookName": "ABSALOM, ABSALOM! ",
+      "author": "WILLIAM FAULKNER"
+    }
+  ]
+}

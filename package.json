@@ -1,0 +1,29 @@
+{
+  "name": "pentalog-react---webprog",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "json-server --watch db.json --port 3001"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.5.0",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^9.1.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
